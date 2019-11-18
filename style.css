@@ -1,0 +1,23 @@
+#btnl {
+	padding: 10px;
+	border-radius: 30px;
+	background-color: lime;
+	cursor: pointer;
+}
+
+#btnr {
+	padding: 10px;
+	border-radius: 30px;
+	background-color: lime;
+	cursor: pointer;
+}
+
+img {
+	width: 958px;
+	height: 578px;
+}
+
+.wrapper {
+	margin-left: 100px;
+}
+
